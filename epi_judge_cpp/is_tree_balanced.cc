@@ -3,6 +3,7 @@
 #include "binary_tree_node.h"
 #include "test_framework/generic_test.h"
 
+
 struct Result {
 	int level;
 	bool is_balanced;
